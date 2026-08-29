@@ -35,7 +35,7 @@ The final system is intended to combine **electronics, sensing, software, commun
 
 ---
 
-# 🤖 Current Project
+# 🤖 Project Phase 1
 
 ## V2 Analogue Line-Following Robot
 
