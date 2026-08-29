@@ -309,7 +309,7 @@ The intention is for the robot to be able to detect potential collisions and mak
 
 The original project is documented in a detailed engineering report covering the design decisions, electronics, sensing circuit, comparator system, motors, mechanical construction, V1/V2 development and lessons learned.
 
-**[📄 Read the full engineering write-up](docs/The-Line-Following-Robot.pdf)**
+**[📄 Read the full engineering write-up](docs/The Line-Following Robot.pdf)**
 
 The report represents the development of the analogue V1/V2 prototype. The ESP32, internet control and collision-avoidance stages are the next phase of the project.
 
